@@ -21,6 +21,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Projeto desenvolvido durante o programa Explrorer da Rocketseat.
-
 Tem como objetivo criar uma página onde podemos favoritar os nossos usuários preferidos do Github.
